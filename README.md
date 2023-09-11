@@ -1,6 +1,6 @@
 # Jm_GP01
-##2023 2학기 건국대학교 게임프로그래밍 수업
-##컴퓨터공학부 장민
+#2023 2학기 건국대학교 게임프로그래밍 수업
+#컴퓨터공학부 장민
 <2023년 게임프로그래밍 (3175) HW1 제출>
 
 - 일감호 및 청심대 제작
@@ -21,8 +21,8 @@
   Lowpoly Environment - Nature Free - MEDIEVAL FANTASY SERIES : https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
   Fantasy Forest Environment - Free Demo : https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
 
-##Game Programming Course, 2nd Semester 2023, Konkuk University
-##Computer Science & Engineering, Jang Min
+#Game Programming Course, 2nd Semester 2023, Konkuk University
+#Computer Science & Engineering, Jang Min
 #<Submission for Game Programming (3175) HW1, 2023>
 
 - Created a scene featuring the view of Ilgam Lake and Cheongsimdae Pavilion.
